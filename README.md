@@ -113,4 +113,4 @@ Task-Scheduler/
 ## 🤝 Acknowledgments
 
 - **Python Libraries**: tkinter, pygame
-- Special thanks to the team and mentors for guidance.
+- Special thanks to the ByteXL and Gaurav Mandoli Sir for guidance.
