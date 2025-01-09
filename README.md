@@ -50,7 +50,7 @@ A Python-based **Task Scheduler Application** with a user-friendly interface to 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/Task-Scheduler.git
+   git clone https://github.com/RahilMirchiwala/Task-Scheduler.git
    cd Task-Scheduler
    ```
 
