@@ -91,7 +91,7 @@ A Python-based **Task Scheduler Application** with a user-friendly interface to 
 ## Screenshots
 
 ### Main GUI Layout
-![Main GUI Layout]("Image\GUI.png")
+![Main GUI Layout]("Image/GUI.png")
 
 ### Adding a Task
 ![Adding a Task]("Image\Task.png")
