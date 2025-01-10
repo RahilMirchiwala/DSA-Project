@@ -97,7 +97,7 @@ A Python-based **Task Scheduler Application** with a user-friendly interface to 
 ![Adding a Task]("Image/Task.png")
 
 ### Notification Alert
-![Notification Alert]("Imag\Notification.png")
+![Notification Alert]("Image/Notification.png")
 
 
 
