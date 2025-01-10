@@ -88,6 +88,17 @@ A Python-based **Task Scheduler Application** with a user-friendly interface to 
    - The app will alert you when a task is nearing its deadline (within 1 minute).
 
 ---
+## Screenshots
+
+### Main GUI Layout
+![Main GUI Layout]("Image\GUI.png")
+
+### Adding a Task
+![Adding a Task]("Image\Task.png")
+
+### Notification Alert
+![Notification Alert]("Imag\Notification.png")
+
 
 
 ## 📂 File Structure
